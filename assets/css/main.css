@@ -651,6 +651,12 @@ input, select, textarea {
 		padding: 10px;
 		text-align: center;
 	}
+	.caption_with_link {
+		display: inline-block;
+		margin-left: 25%;
+		padding: 10px;
+		text-align: center;
+	}
 	.image {
 		border-radius: 4px;
 		border: 0;
