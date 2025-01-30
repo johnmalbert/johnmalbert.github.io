@@ -1,2 +1,2 @@
 Thank you for taking the time to view my portfolio!
-Please visit the deployed site at https://github.com/johnmalbert/johnmalbert.github.io/#
+Please visit the deployed site at https://johnmalbert.github.io/
